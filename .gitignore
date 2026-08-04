@@ -10,3 +10,7 @@ log.txt
 #mengecualikan file (lebih dari satu file)
 *.html
 index.ts
+
+
+#mengabaikan semua (file dengan ekstensi .y)
+*.py
