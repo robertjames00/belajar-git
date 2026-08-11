@@ -1,0 +1,16 @@
+#mengecualikan folder
+clone project git/
+
+#mengecualikan file
+*.log
+
+#mengecualikan file (satu file)
+log.txt
+
+#mengecualikan file (lebih dari satu file)
+*.html
+index.ts
+
+
+#mengabaikan semua (file dengan ekstensi .y)
+*.py
